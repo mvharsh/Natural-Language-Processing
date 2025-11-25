@@ -166,3 +166,7 @@ Actual: Neither | Predicted: Neither
 ```
 
 ---
+
+## RESULT
+
+The program successfully implements a **hate speech detection system** using multiple ML algorithms. The best performing model (Linear SVM in this run) achieved high accuracy and correctly classified random tweet samples. This demonstrates effective detection of hate speech, offensive language, and neutral content.
